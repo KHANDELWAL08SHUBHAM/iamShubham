@@ -1,0 +1,190 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.container-fluid {
+  padding: 3% 15% 10%;
+}
+
+.container-fluid-lite{
+  padding: 3% 15% 2%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Ubuntu";
+}
+
+.Download-button {
+  margin: 5% 15% 15% 0;
+}
+
+.btn {
+  margin-right: 5%;
+}
+
+.title-image {
+  width: 85%;
+  transform: rotate(0deg);
+  position: absolute;
+  opacity: 0.85;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+
+  font-size: 2rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 4%;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin-top: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-col {
+  padding: 3% 2%;
+  text-align: center;
+}
+
+@media screen and (max-width: 1080px) {
+  .title-image {
+    transform: rotate(0deg);
+    position: static;
+    width: 50%;
+    padding: 5%;
+  }
+
+  #title {
+    text-align: center;
+  }
+}
+
+#cta {
+  background-color: #ff4c68;
+  padding: 7% 15%;
+  text-align: center;
+  color: #fff;
+}
+
+#cta-lite {
+  background-color: #ff4c68;
+  padding: 2% 5%;
+  text-align: center;
+  color: #fff;
+}
+
+.btnlast {
+  margin: 2%;
+}
+
+#footer {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.social {
+  margin: 20px 10px;
+}
+.nav-link:hover{
+
+
+   position: relative;
+   top: 10%;
+}
+
+.project-drumkitphoto{
+  width: 50%;
+}
+.abtn{
+  background-color: #f9f9f9;
+}
+.midline{
+  width: 100%;
+  height: 100px;
+  background-color: #ef8172;
+}
+table{
+  width: 80%;
+}
+.navbar-brand{
+  text-shadow: 3px 3px 4px #ffffff;
+}
